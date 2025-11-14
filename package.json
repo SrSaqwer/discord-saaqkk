@@ -1,0 +1,22 @@
+{
+  "name": "discord-saaqkk",
+  "version": "1.0.0",
+  "description": "Bot de moderación para Discord escrito en Node.js",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "discord",
+    "moderation",
+    "bot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.7.0"
+  }
+}
